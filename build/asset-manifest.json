@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b00035f.css",
-    "main.js": "/static/js/main.dec7d245.js",
+    "main.css": "/static/css/main.35154b0e.css",
+    "main.js": "/static/js/main.07f92dc3.js",
     "static/media/the-trash-min.webp": "/static/media/the-trash-min.1494b703478453875449.webp",
     "static/media/burn-min.webp": "/static/media/burn-min.5ce7b98b69f066e5d2a2.webp",
     "static/media/iqTest.jpg": "/static/media/iqTest.84539fc600e956dd18be.jpg",
@@ -16,6 +16,7 @@
     "static/media/JavaScript.jpg": "/static/media/JavaScript.8193e81a6c541bd9bb6b.jpg",
     "static/media/what-min.webp": "/static/media/what-min.ad55587a4e6e144f0430.webp",
     "static/media/human-buildings-min.webp": "/static/media/human-buildings-min.971d0118b5bc6154c8c9.webp",
+    "static/media/git-github.jpg": "/static/media/git-github.e38de76760679ff636b1.jpg",
     "static/media/ae86-min.webp": "/static/media/ae86-min.8deae4f53d2f3d1e7ccc.webp",
     "static/media/solar-system-min.webp": "/static/media/solar-system-min.505898c67e34db7e15a0.webp",
     "static/media/aiart.png": "/static/media/aiart.796c299f2b18cdd8879f.png",
@@ -24,11 +25,11 @@
     "static/media/kebab.png": "/static/media/kebab.f9781313818b318b3927.png",
     "static/media/player.png": "/static/media/player.347b0f4bf973586aa1bd.png",
     "index.html": "/index.html",
-    "main.8b00035f.css.map": "/static/css/main.8b00035f.css.map",
-    "main.dec7d245.js.map": "/static/js/main.dec7d245.js.map"
+    "main.35154b0e.css.map": "/static/css/main.35154b0e.css.map",
+    "main.07f92dc3.js.map": "/static/js/main.07f92dc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b00035f.css",
-    "static/js/main.dec7d245.js"
+    "static/css/main.35154b0e.css",
+    "static/js/main.07f92dc3.js"
   ]
 }
