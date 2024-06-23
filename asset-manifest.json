@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9b4fbe17.css",
-    "main.js": "/static/js/main.d82b65c7.js",
+    "main.js": "/static/js/main.96a4e3da.js",
     "static/media/the-trash-min.webp": "/static/media/the-trash-min.1494b703478453875449.webp",
     "static/media/burn-min.webp": "/static/media/burn-min.5ce7b98b69f066e5d2a2.webp",
     "static/media/daniel-diacon.jpg": "/static/media/daniel-diacon.306d94da8e8bf4053262.jpg",
@@ -26,10 +26,10 @@
     "static/media/player.png": "/static/media/player.347b0f4bf973586aa1bd.png",
     "index.html": "/index.html",
     "main.9b4fbe17.css.map": "/static/css/main.9b4fbe17.css.map",
-    "main.d82b65c7.js.map": "/static/js/main.d82b65c7.js.map"
+    "main.96a4e3da.js.map": "/static/js/main.96a4e3da.js.map"
   },
   "entrypoints": [
     "static/css/main.9b4fbe17.css",
-    "static/js/main.d82b65c7.js"
+    "static/js/main.96a4e3da.js"
   ]
 }
