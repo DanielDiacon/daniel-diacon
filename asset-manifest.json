@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b4fbe17.css",
+    "main.js": "/static/js/main.d82b65c7.js",
+    "static/media/the-trash-min.webp": "/static/media/the-trash-min.1494b703478453875449.webp",
+    "static/media/burn-min.webp": "/static/media/burn-min.5ce7b98b69f066e5d2a2.webp",
+    "static/media/daniel-diacon.jpg": "/static/media/daniel-diacon.306d94da8e8bf4053262.jpg",
+    "static/media/your-dream-min.webp": "/static/media/your-dream-min.10eb6355ba58e6b0ab3c.webp",
+    "static/media/oldD.png": "/static/media/oldD.5c4d75249694db78b733.png",
+    "static/media/van-gogh-min.webp": "/static/media/van-gogh-min.c8bed3c6b29e0e067e99.webp",
+    "static/media/code-coffee-min.webp": "/static/media/code-coffee-min.52a17da9c9c55fb20f80.webp",
+    "static/media/asteroid-min.webp": "/static/media/asteroid-min.c2471f137a95f8b2b6f1.webp",
+    "static/media/regret-min.webp": "/static/media/regret-min.52a6688cd6a91528f95c.webp",
+    "static/media/flourishes-min.webp": "/static/media/flourishes-min.2e4a26712a5892b18dee.webp",
+    "static/media/java-script.jpg": "/static/media/java-script.8193e81a6c541bd9bb6b.jpg",
+    "static/media/what-min.webp": "/static/media/what-min.ad55587a4e6e144f0430.webp",
+    "static/media/human-buildings-min.webp": "/static/media/human-buildings-min.971d0118b5bc6154c8c9.webp",
+    "static/media/git-github.jpg": "/static/media/git-github.e38de76760679ff636b1.jpg",
+    "static/media/ae86-min.webp": "/static/media/ae86-min.8deae4f53d2f3d1e7ccc.webp",
+    "static/media/solar-system-min.webp": "/static/media/solar-system-min.505898c67e34db7e15a0.webp",
+    "static/media/react-redux-html.jpg": "/static/media/react-redux-html.afdcf2ac8aba7da8eb0f.jpg",
+    "static/media/aiart.png": "/static/media/aiart.796c299f2b18cdd8879f.png",
+    "static/media/daniel-png.png": "/static/media/daniel-png.424d9e87a2b8b8aa799a.png",
+    "static/media/letter-d.png": "/static/media/letter-d.c7244c6980d40d1a0a94.png",
+    "static/media/kebab.png": "/static/media/kebab.f9781313818b318b3927.png",
+    "static/media/player.png": "/static/media/player.347b0f4bf973586aa1bd.png",
+    "index.html": "/index.html",
+    "main.9b4fbe17.css.map": "/static/css/main.9b4fbe17.css.map",
+    "main.d82b65c7.js.map": "/static/js/main.d82b65c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4fbe17.css",
+    "static/js/main.d82b65c7.js"
+  ]
+}
